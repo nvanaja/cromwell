@@ -1,0 +1,6 @@
+name: passing_files
+testFormat: workflowsuccess
+
+files {
+  workflow: passing_files/passing_files.wdl
+}
